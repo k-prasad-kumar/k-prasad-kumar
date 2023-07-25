@@ -43,9 +43,9 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 ### Backend Technologies
 
 <div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="5%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="5%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="5%" title='MongoDB'/>
+  <img src ="./images/nodejs.svg" alt="Node logo" width="6%" title='Nodejs'/>
+  <img src ="./images/express.svg" alt="express logo" width="7%" title='Express'/>
+  <img src ="./images/mongodb.svg" alt="D3 logo" width="7%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
@@ -56,7 +56,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 
 <div>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="5%" title='Git'/>
+  <img src ="./images/git.svg" alt="Git logo" width="7%" title='Git'/>
   <!-- <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/> -->
   <!-- <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/> -->
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
