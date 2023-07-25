@@ -32,7 +32,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="5%" title='Bootstrap'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="5%" title='Sass'/>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
   <img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
@@ -49,17 +49,17 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/django.svg" alt="Django logo" width="5%" title='Django'/>
+  <img src ="./images/django.svg" alt="Django logo" width="4%" title='Django'/>
 </div>
 
 ### Tools
 
 <div>
-  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="5%" title='Visual Studio Code'/>
+  <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="7%" title='Git'/>
   <!-- <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/> -->
   <!-- <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/> -->
-  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
+  <img src ="./images/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/> 
 </div>
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-prasad-kumar&layout)](https://github.com/k-prasad-kumar/github-readme-stats) -->
