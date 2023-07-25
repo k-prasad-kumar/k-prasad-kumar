@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am a _programmer_, _full-stack developer_. This GitHub page has many projects in HTML, CSS, JS, React, Python, Web Development, and many other topics. I am very much pleased to have you here on my GitHub page and using this project or content. To get up-to-date about the content or projects I create you may follow me on GitHub, or LinkedIn.  
 
-![](https://komarev.com/ghpvc/?username=prasad-kumar&color=green)
+![](https://komarev.com/ghpvc/?username=k-prasad-kumar&color=green)
 
 <div>
 <a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
@@ -62,6 +62,6 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-kumar&layout)](https://github.com/prasad-kumar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-prasad-kumar&layout)](https://github.com/k-prasad-kumar/github-readme-stats)
   
  
