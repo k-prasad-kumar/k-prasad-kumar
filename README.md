@@ -30,14 +30,14 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 ### Frontend Technologies
 
 <div>
-  <img src ="./images/html-5.svg" alt="HTML5 logo" width="3%" title='HTML5'/>
-  <img src ="./images/css-3.svg" alt="CSS3 logo" width="3%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="4%" title='Sass'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="4%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="4%" title='ES6'/>
-  <img src ="./images/react.svg" alt="react logo" width="4%" title='React'/>
-  <img src ="./images/redux.svg" alt="redux logo" width="4%" title='Redux'/>
+  <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
+  <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
+  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="5%" title='Bootstrap'/>
+  <img src ="./images/sass.svg" alt="Sass logo" width="5%" title='Sass'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
+  <img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
+  <img src ="./images/react.svg" alt="react logo" width="5%" title='React'/>
+  <img src ="./images/redux.svg" alt="redux logo" width="5%" title='Redux'/>
 <div> 
 
 ### Backend Technologies
@@ -62,6 +62,6 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="5%" title='Nodemon'/> 
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-prasad-kumar&layout)](https://github.com/k-prasad-kumar/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-prasad-kumar&layout)](https://github.com/k-prasad-kumar/github-readme-stats) -->
   
  
