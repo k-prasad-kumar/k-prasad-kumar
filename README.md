@@ -33,7 +33,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
   <img src ="./images/typescript.svg" alt="TypeScript logo" width="5%" title='TypeScript'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
+  <img src ="./images/java-icon.svg" alt="Java logo" width="5%" title='Java'/>
 <div> 
 
 ### Frontend Technologies
@@ -43,8 +43,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
   <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
   <img src ="./images/sass.svg" alt="Sass logo" width="5%" title='Sass'/>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
-  <img src ="./images/es6.svg" alt="ES6 logo" width="5%" title='ES6'/>
+  <img src ="./images/tailwindcss.svg" alt="Tailwindcss logo" width="5%" title='Tailwindcss'/>
   <img src ="./images/react.svg" alt="react logo" width="5%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="5%" title='Redux'/>
 <div> 
@@ -57,7 +56,6 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/mongodb.svg" alt="D3 logo" width="7%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
-  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
   <img src ="./images/django.svg" alt="Django logo" width="4%" title='Django'/>
 </div>
 
