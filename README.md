@@ -27,6 +27,15 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 
 ## Technologies which I use:
 
+### Languages
+
+<div>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
+  <img src ="./images/typescript.svg" alt="TypeScript logo" width="5%" title='TypeScript'/>
+  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
+<div> 
+
 ### Frontend Technologies
 
 <div>
@@ -57,8 +66,8 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 <div>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
   <img src ="./images/git.svg" alt="Git logo" width="7%" title='Git'/>
-  <!-- <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/> -->
-  <!-- <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/> -->
+  <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
+  <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/> 
 </div>
   
