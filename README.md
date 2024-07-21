@@ -46,6 +46,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/tailwindcss.svg" alt="Tailwindcss logo" width="5%" title='Tailwindcss'/>
   <img src ="./images/react.svg" alt="react logo" width="5%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="5%" title='Redux'/>
+  <img src ="./images/nextjs.svg" alt="nextjs logo" width="5%" title='NextJS'/>
   
 <div> 
 
