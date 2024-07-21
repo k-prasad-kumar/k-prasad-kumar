@@ -46,6 +46,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/tailwindcss.svg" alt="Tailwindcss logo" width="5%" title='Tailwindcss'/>
   <img src ="./images/react.svg" alt="react logo" width="5%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="5%" title='Redux'/>
+  
 <div> 
 
 ### Backend Technologies
@@ -56,7 +57,6 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/mongodb.svg" alt="D3 logo" width="7%" title='MongoDB'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
-  <img src ="./images/django.svg" alt="Django logo" width="4%" title='Django'/>
 </div>
 
 ### Tools
