@@ -23,7 +23,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 ![](https://komarev.com/ghpvc/?username=k-prasad-kumar&color=green)
 
 <div>
-<a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="8%"></a>
+<a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin-1.svg' alt='LinkedIn' width="8%"></a>
 
 ## Technologies which I use:
 
@@ -51,7 +51,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 ### Backend Technologies
 
 <div>
-  <img src ="./images/nodejs.svg" alt="Node logo" width="6%" title='Nodejs'/>
+  <img src ="./images/nodejs-1.svg" alt="Node logo" width="6%" title='Nodejs'/>
   <img src ="./images/express-1.svg" alt="express logo" width="7%" title='Express'/>
   <img src ="./images/mongodb-1.svg" alt="D3 logo" width="7%" title='MongoDB'/>
   <img src ="./images/prisma.svg" alt="D3 logo" width="7%" title='Prisma ORM'/>
@@ -63,7 +63,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 
 <div>
   <img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="4%" title='Visual Studio Code'/>
-  <img src ="./images/git.svg" alt="Git logo" width="7%" title='Git'/>
+  <img src ="./images/git-1.svg" alt="Git logo" width="7%" title='Git'/>
   <img src ="./images/eslint.svg" alt="ESLint logo" width="5%" title='ESLint'/>
   <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/> 
