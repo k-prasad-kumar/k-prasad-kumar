@@ -29,9 +29,9 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 
 ### Languages
 
-<div style="display:flex;">
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript' style="margin: 0 4px 0 4px"/>
-  <img src ="./images/typescript-1.svg" alt="TypeScript logo" width="5%" title='TypeScript' style="margin: 0 4px 0 4px"/>
+<div>
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript' style="margin-right: 4px"/>
+  <img src ="./images/typescript-1.svg" alt="TypeScript logo" width="5%" title='TypeScript' style="margin-right: 4px"/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
   <img src ="./images/java-icon.svg" alt="Java logo" width="5%" title='Java'/>
 <div> 
