@@ -25,7 +25,7 @@ Current Focus: I’m currently focused on expanding my expertise in React and Ne
 Exploring advanced features in Next.js and optimizing performance for large-scale applications.
 Enhancing my TypeScript skills to write more robust and maintainable code.
 
-##### 🌟 Projects
+#### 🌟 Projects
 Here are some projects I’ve worked on that I’m particularly proud of:
 
 
