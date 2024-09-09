@@ -22,19 +22,12 @@ I'm a web developer with a passion for creating dynamic and responsive web appli
 
 🚀 About Me
 Current Focus: I’m currently focused on expanding my expertise in React and Next.js to build high-performance web applications and enhance my skills in the MERN stack for full-stack development.
-Skills:
-Front-End: HTML, CSS, JavaScript, TypeScript, React, Next.js
-Back-End: MERN stack (MongoDB, Express.js, React, Node.js)
-🛠️ Technologies & Tools
-Languages: HTML, CSS, JavaScript, TypeScript
-Frameworks & Libraries: React, Next.js
-Full-Stack Development: MERN stack
-Tools: Git, Webpack, Babel
-🌟 Projects
-Here are some projects I’ve worked on that I’m particularly proud of:
+
+<h1>🌟 Projects</h1>
+<p>Here are some projects I’ve worked on that I’m particularly proud of:</p>
 
 <div>
-  <h1>TrustKart</h1>
+  <h4>TrustKart</h1>
   <p>
     I’m thrilled to announce the launch of TrustKart, our innovative e-commerce platform dedicated exclusively to fashion and clothing! 🌟
   </p>
@@ -45,22 +38,6 @@ Here are some projects I’ve worked on that I’m particularly proud of:
 Exploring advanced features in Next.js and optimizing performance for large-scale applications.
 Enhancing my TypeScript skills to write more robust and maintainable code.
 
-<div>
-  <h1>
-    📫 Get in Touch
-  </h1>
-  <p>Email: kprasadkumar7@gmail.com</p>
-  <p>LinkedIn: [Your LinkedIn profile]</p>
-  <p>Twitter: [Your Twitter handle]</p>
-</div>
-
-
-Feel free to connect or reach out if you have any questions, collaboration ideas, or just want to chat about web development!
-
-![](https://komarev.com/ghpvc/?username=k-prasad-kumar&color=green)
-
-<div>
-<a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin-1.svg' alt='LinkedIn' width="8%"></a>
 
 ## Technologies which I use:
 
@@ -105,7 +82,22 @@ Feel free to connect or reach out if you have any questions, collaboration ideas
   <img src ="./images/webpack.svg" alt="Webpack logo" width="5%" title='Webpack'/>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/> 
 </div>
+
+<div>
+  <h1>
+    📫 Get in Touch
+  </h1>
+  <p>Email: kprasadkumar7@gmail.com</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin-1.svg' alt='LinkedIn' width="1%"></a></p>
+  <p>Twitter: [Your Twitter handle]</p>
+</div>
+
+
+Feel free to connect or reach out if you have any questions, collaboration ideas, or just want to chat about web development!
+
+![](https://komarev.com/ghpvc/?username=k-prasad-kumar&color=green)
+
   
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-prasad-kumar&layout)](https://github.com/k-prasad-kumar/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-prasad-kumar&layout)](https://github.com/k-prasad-kumar/github-readme-stats)
   
  
