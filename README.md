@@ -56,7 +56,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
   <img src ="./images/mongodb-1.svg" alt="D3 logo" width="7%" title='MongoDB'/>
   <img src ="./images/prisma.svg" alt="D3 logo" width="7%" title='Prisma ORM'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
-  <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
+  <img src ="./images/sqlite-1.svg" alt="sqlite logo" width="5%" title='sqlite'/>
 </div>
 
 ### Tools
