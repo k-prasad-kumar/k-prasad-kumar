@@ -25,16 +25,11 @@ Current Focus: I’m currently focused on expanding my expertise in React and Ne
 Here are some projects I’ve worked on that I’m particularly proud of:
 
 
-  ###### TrustKart
+###### TrustKart
   
-  I’m thrilled to announce the launch of TrustKart, our innovative e-commerce platform dedicated exclusively to fashion and clothing! 🌟  
-  Check it out : <a href="https://trustkart.onrender.com">TrustKart</a>
+I’m thrilled to announce the launch of TrustKart, our innovative e-commerce platform dedicated exclusively to fashion and clothing! 🌟  
+Check it out : <a href="https://trustkart.onrender.com">TrustKart</a>
   
-
-##### 💡 I’m Currently Learning
-Exploring advanced features in Next.js and optimizing performance for large-scale applications.
-Enhancing my TypeScript skills to write more robust and maintainable code.
-
 
 ## Technologies which I use:
 
@@ -80,11 +75,14 @@ Enhancing my TypeScript skills to write more robust and maintainable code.
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/> 
 </div>
 
+##### 💡 I’m Currently Learning
+Exploring advanced features in Next.js and optimizing performance for large-scale applications.
+Enhancing my TypeScript skills to write more robust and maintainable code.
 
-  ###  📫 Get in Touch
-  Email: kprasadkumar7@gmail.com
-  LinkedIn: <a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin-1.svg' alt='LinkedIn' width="4%">Prasad Kumar</a>
-  Instagram: <a href="https://www.instagram.com/its_me_prasad/" target="_blank">Prasad Kumar</a>
+###  📫 Get in Touch
+Email: kprasadkumar7@gmail.com
+LinkedIn: <a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank">Prasad Kumar</a>
+Instagram: <a href="https://www.instagram.com/its_me_prasad/" target="_blank">Prasad Kumar</a>
 
 
 
