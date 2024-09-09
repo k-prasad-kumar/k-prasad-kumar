@@ -21,6 +21,10 @@ I'm a web developer with a passion for creating dynamic and responsive web appli
 ##### 🚀 About Me
 Current Focus: I’m currently focused on expanding my expertise in React and Next.js to build high-performance web applications and enhance my skills in the MERN stack for full-stack development.
 
+##### 💡 I’m Currently Learning
+Exploring advanced features in Next.js and optimizing performance for large-scale applications.
+Enhancing my TypeScript skills to write more robust and maintainable code.
+
 ##### 🌟 Projects
 Here are some projects I’ve worked on that I’m particularly proud of:
 
@@ -75,9 +79,6 @@ Check it out : <a href="https://trustkart.onrender.com">TrustKart</a>
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/> 
 </div>
 
-##### 💡 I’m Currently Learning
-Exploring advanced features in Next.js and optimizing performance for large-scale applications.
-Enhancing my TypeScript skills to write more robust and maintainable code.
 
 ###  📫 Get in Touch
 Email: kprasadkumar7@gmail.com <br />
