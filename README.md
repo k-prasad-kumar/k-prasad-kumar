@@ -33,17 +33,28 @@ Tools: Git, Webpack, Babel
 🌟 Projects
 Here are some projects I’ve worked on that I’m particularly proud of:
 
-[Project Name]: [Brief description, e.g., "A responsive e-commerce site built with React and Next.js, featuring real-time inventory updates and a user-friendly checkout process."]
-[Project Name]: [Brief description, e.g., "A full-stack application using the MERN stack to manage and visualize user data with interactive charts."]
-[Project Name]: [Brief description, e.g., "A portfolio website showcasing my projects and skills, developed with HTML, CSS, and JavaScript."]
+<div>
+  <h1>TrustKart</h1>
+  <p>
+    I’m thrilled to announce the launch of TrustKart, our innovative e-commerce platform dedicated exclusively to fashion and clothing! 🌟
+  </p>
+  <a href="https://trustkart.onrender.com">TrustKart</a>
+</div>
+
 💡 I’m Currently Learning
 Exploring advanced features in Next.js and optimizing performance for large-scale applications.
 Enhancing my TypeScript skills to write more robust and maintainable code.
-📫 Get in Touch
-Email: [Your email]
-LinkedIn: [Your LinkedIn profile]
-Twitter: [Your Twitter handle]
-Website/Blog: [Link to your personal website or blog, if any]
+
+<div>
+  <h1>
+    📫 Get in Touch
+  </h1>
+  <p>Email: kprasadkumar7@gmail.com</p>
+  <p>LinkedIn: [Your LinkedIn profile]</p>
+  <p>Twitter: [Your Twitter handle]</p>
+</div>
+
+
 Feel free to connect or reach out if you have any questions, collaboration ideas, or just want to chat about web development!
 
 ![](https://komarev.com/ghpvc/?username=k-prasad-kumar&color=green)
