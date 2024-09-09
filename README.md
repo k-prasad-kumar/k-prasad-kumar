@@ -31,7 +31,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 
 <div>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript'/>
-  <img src ="./images/typescript.svg" alt="TypeScript logo" width="5%" title='TypeScript'/>
+  <img src ="./images/typescript-1.svg" alt="TypeScript logo" width="5%" title='TypeScript'/>
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
   <img src ="./images/java-icon.svg" alt="Java logo" width="5%" title='Java'/>
 <div> 
@@ -41,9 +41,7 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 <div>
   <img src ="./images/html-5.svg" alt="HTML5 logo" width="4%" title='HTML5'/>
   <img src ="./images/css-3.svg" alt="CSS3 logo" width="4%" title='CSS3'/>
-  <img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
-  <img src ="./images/sass.svg" alt="Sass logo" width="5%" title='Sass'/>
-  <img src ="./images/tailwindcss.svg" alt="Tailwindcss logo" width="5%" title='Tailwindcss'/>
+  <img src ="./images/tailwindcss-1.svg" alt="Tailwindcss logo" width="5%" title='Tailwindcss'/>
   <img src ="./images/react.svg" alt="react logo" width="5%" title='React'/>
   <img src ="./images/redux.svg" alt="redux logo" width="5%" title='Redux'/>
   <img src ="./images/next-js.svg" alt="nextjs logo" width="5%" title='NextJS'/>
@@ -54,8 +52,9 @@ I am a _programmer_, _full-stack developer_. This GitHub page has many projects 
 
 <div>
   <img src ="./images/nodejs.svg" alt="Node logo" width="6%" title='Nodejs'/>
-  <img src ="./images/express.svg" alt="express logo" width="7%" title='Express'/>
-  <img src ="./images/mongodb.svg" alt="D3 logo" width="7%" title='MongoDB'/>
+  <img src ="./images/express-1.svg" alt="express logo" width="7%" title='Express'/>
+  <img src ="./images/mongodb-1.svg" alt="D3 logo" width="7%" title='MongoDB'/>
+  <img src ="./images/prisma.svg" alt="D3 logo" width="7%" title='Prisma ORM'/>
   <img src ="./images/mysql.svg" alt="mysql logo" width="5%" title='MYSQL'/>
   <img src ="./images/sqlite.svg" alt="sqlite logo" width="5%" title='sqlite'/>
 </div>
