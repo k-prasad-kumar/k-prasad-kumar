@@ -80,7 +80,7 @@ Check it out : <a href="https://trustkart.onrender.com">TrustKart</a>
 </div>
 
 
-###  📫 Get in Touch
+## 📫 Get in Touch
 Email: kprasadkumar7@gmail.com <br />
 LinkedIn: <a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank">Prasad Kumar</a> <br />
 Instagram: <a href="https://www.instagram.com/its_me_prasad/" target="_blank">Prasad Kumar</a> <br />
