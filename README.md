@@ -14,27 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋 !
-
-## I'm Prasad Kumar
+# Hi 👋 I'm Prasad Kumar
 
 I'm a web developer with a passion for creating dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building modern, user-friendly interfaces and robust, scalable applications.
 
-🚀 About Me
+## 🚀 About Me
 Current Focus: I’m currently focused on expanding my expertise in React and Next.js to build high-performance web applications and enhance my skills in the MERN stack for full-stack development.
 
-<h1>🌟 Projects</h1>
+# 🌟 Projects
 <p>Here are some projects I’ve worked on that I’m particularly proud of:</p>
 
-<div>
-  <h4>TrustKart</h1>
+
+  ### TrustKart
   <p>
-    I’m thrilled to announce the launch of TrustKart, our innovative e-commerce platform dedicated exclusively to fashion and clothing! 🌟
+    I’m thrilled to announce the launch of TrustKart, our innovative e-commerce platform dedicated exclusively to fashion and clothing! 🌟  <a href="https://trustkart.onrender.com">TrustKart</a>
   </p>
-  <a href="https://trustkart.onrender.com">TrustKart</a>
 </div>
 
-💡 I’m Currently Learning
+### 💡 I’m Currently Learning
 Exploring advanced features in Next.js and optimizing performance for large-scale applications.
 Enhancing my TypeScript skills to write more robust and maintainable code.
 
@@ -83,14 +80,12 @@ Enhancing my TypeScript skills to write more robust and maintainable code.
   <img src ="./images/nodemon.svg" alt="Nodemon logo" width="4%" title='Nodemon'/> 
 </div>
 
-<div>
-  <h1>
-    📫 Get in Touch
-  </h1>
+
+  ##  📫 Get in Touch
   <p>Email: kprasadkumar7@gmail.com</p>
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin-1.svg' alt='LinkedIn' width="1%"></a></p>
-  <p>Twitter: [Your Twitter handle]</p>
-</div>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank"><img src='./images/linkedin-1.svg' alt='LinkedIn' width="4%">Prasad Kumar</a></p>
+  <p>Instagram: <a href="https://www.instagram.com/its_me_prasad/" target="_blank">Prasad Kumar</a>
+
 
 
 Feel free to connect or reach out if you have any questions, collaboration ideas, or just want to chat about web development!
