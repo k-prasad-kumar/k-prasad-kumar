@@ -32,7 +32,7 @@ Here are some projects I’ve worked on that I’m particularly proud of:
 ###### TrustKart
   
 I’m thrilled to announce the launch of TrustKart, our innovative e-commerce platform dedicated exclusively to fashion and clothing! 🌟  
-Check it out : <a href="https://trustkart.onrender.com">TrustKart</a>
+Check it out : <a href="https://trustkart.vercel.app">TrustKart</a>
   
 
 ## Technologies which I use:
@@ -40,10 +40,10 @@ Check it out : <a href="https://trustkart.onrender.com">TrustKart</a>
 ### Languages
 
 <div>
-  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript' style="margin-right: 4px"/>
-  <img src ="./images/typescript-1.svg" alt="TypeScript logo" width="5%" title='TypeScript' style="margin-right: 4px"/>
-  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
-  <img src ="./images/java-icon.svg" alt="Java logo" width="5%" title='Java'/>
+  1. <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript' style="margin-right: 4px"/> JavaScript
+  2. <img src ="./images/typescript-1.svg" alt="TypeScript logo" width="5%" title='TypeScript' style="margin-right: 4px"/>TypeScript
+  3. <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/> Python
+  4. <img src ="./images/java-icon.svg" alt="Java logo" width="5%" title='Java'/> Java
 <div> 
 
 ### Frontend Technologies
