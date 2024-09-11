@@ -82,8 +82,8 @@ Check it out : <a href="https://trustkart.vercel.app">TrustKart</a>
 
 ## 📫 Get in Touch
 Email: kprasadkumar7@gmail.com <br />
-LinkedIn: <a href="https://www.linkedin.com/in/prasad-kumar-a77650142/" target="_blank">Prasad Kumar</a> <br />
-Instagram: <a href="https://www.instagram.com/its_me_prasad/" target="_blank">Prasad Kumar</a> <br />
+LinkedIn: <a href="https://www.linkedin.com/in/k-prasad-kumar" target="_blank">Prasad Kumar</a> <br />
+Instagram: <a href="https://www.instagram.com/its_me_prasad" target="_blank">Prasad Kumar</a> <br />
 
 
 
