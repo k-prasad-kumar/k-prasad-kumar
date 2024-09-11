@@ -39,11 +39,11 @@ Check it out : <a href="https://trustkart.vercel.app">TrustKart</a>
 
 ### Languages
 
-<div>
-  1. <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript' style="margin-right: 4px"/> JavaScript
-  2. <img src ="./images/typescript-1.svg" alt="TypeScript logo" width="5%" title='TypeScript' style="margin-right: 4px"/>TypeScript
-  3. <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/> Python
-  4. <img src ="./images/java-icon.svg" alt="Java logo" width="5%" title='Java'/> Java
+<div style="display: flex; flex-direction: column">
+  <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript' />
+  <img src ="./images/typescript-1.svg" alt="TypeScript logo" width="5%" title='TypeScript' />
+  <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
+  <img src ="./images/java-icon.svg" alt="Java logo" width="5%" title='Java'/>
 <div> 
 
 ### Frontend Technologies
