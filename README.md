@@ -39,7 +39,7 @@ Check it out : <a href="https://trustkart.vercel.app">TrustKart</a>
 
 ### Languages
 
-<div style="display: flex; flex-direction: column">
+<div>
   <img src ="./images/javascript.svg" alt="JavaScript logo" width="5%" title='JavaScript' />
   <img src ="./images/typescript-1.svg" alt="TypeScript logo" width="5%" title='TypeScript' />
   <img src ="./images/python.svg" alt="Python logo" width="5%" title='Python'/>
