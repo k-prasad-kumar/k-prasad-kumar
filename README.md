@@ -28,6 +28,10 @@ Enhancing my TypeScript skills to write more robust and maintainable code.
 #### 🌟 Projects
 Here are some projects I’ve worked on that I’m particularly proud of:
 
+###### FlameIt
+  
+I’m thrilled to announce the launch of FlameIt - A Social Media Web App Built with Next.js, TypeScript, MongoDB, Socket.io, Tailwind CSS, and Prisma! 🌟  
+Check it out : <a href="https://flameit.vercel.app">FlameIt</a>
 
 ###### TrustKart
   
