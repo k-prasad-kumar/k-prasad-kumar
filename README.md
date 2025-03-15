@@ -31,12 +31,12 @@ Here are some projects I’ve worked on that I’m particularly proud of:
 ###### FlameIt
   
 I’m thrilled to announce the launch of FlameIt - A Social Media Web App Built with Next.js, TypeScript, MongoDB, Socket.io, Tailwind CSS, and Prisma! 🌟  
-Check it out : <a href="https://flameit.vercel.app">FlameIt</a>
+Check it out : <a href="https://flameit.vercel.app" target="_blank">FlameIt</a>
 
 ###### TrustKart
   
 I’m thrilled to announce the launch of TrustKart, our innovative e-commerce platform dedicated exclusively to fashion and clothing! 🌟  
-Check it out : <a href="https://trustkart.vercel.app">TrustKart</a>
+Check it out : <a href="https://trustkart.vercel.app" target="_blank">TrustKart</a>
   
 
 ## Technologies which I use:
